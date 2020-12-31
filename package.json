@@ -23,5 +23,12 @@
     "@frontendmasters/pet": "^1.0.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
-  }
+  },
+  
+  
+  "browserslist": [
+    "last 2 Firefox versions",
+    "last 2 Safari versions"
+  ]
+  
 }
